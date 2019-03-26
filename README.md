@@ -2,7 +2,9 @@
 Artificial Intelligence Paper
 Assignment 1
 Robots on a chessboard
+
 Weight:20% Lecturer: Lech Szymanski
+
 For this assignment, you will be working in the group that you were assigned to during Tutorial 1, when you first used the LEGO robots. Any students who weren’t at that tutorial should email Craig (atkcr398@student.otago.ac.nz), and they’ll be assigned to an existing group. If you have any other questions about group allocation, you should also email Craig. If you have problems with your group, you should again contact Craig as early as you can.
 Task 1 (10 marks)
 Your group’s first task is to write a Python program which will allow a LEGO robot to travel between two points in the lobby of the Owheo building. The lobby is laid out with black and white tiles, in a pattern that looks like this:
@@ -44,10 +46,3 @@ Finding the tower Pushing the tower
     3 1.5 0.5
      3 1.5 0.5
      3
-
-• Shift 1: 9:00am - 12:00 noon
-• Shift 2: 1:00pm - 4:00pm
-• Shift 3: 4:30pm - 9:00am the following day.
-A team can also check out a robot for the weekend 4:30pm on Friday to 9am the following Monday). See Kaye to book in times to borrow your robot. If you return your robot late, there is a penalty in the assignment: you will lose 10% of available marks for each session (day/night) you are late.
-There’s a lot of demand for robots leading up to the assignment deadline. If you’re smart, you will plan on getting the assignment done well before the deadline.
-4
